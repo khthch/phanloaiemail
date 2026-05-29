@@ -73,11 +73,8 @@ tfidf_vectorizer.pkl
 
 ---
 
-<<<<<<< HEAD
-## 💻 Chạy ứng dụng cục bộ
-=======
+
 ## 💻 Chạy web cục bộ
->>>>>>> f79e9b81953cf9af3acd1ea2db8a0803b48bc95a
 
 Cài thư viện:
 
