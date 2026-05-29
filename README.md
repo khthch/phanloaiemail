@@ -158,4 +158,5 @@ Please find the attached report.
 
 ## 👨‍💻 Tác giả
 
-Spam Email Classifier Project
+Khổng Thành Chiến - Nguyễn Đăng Duy
+Lớp 23CT111
