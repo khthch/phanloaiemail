@@ -1,5 +1,8 @@
 streamlit==1.41.1
 pandas==2.2.3
+<<<<<<< HEAD
 numpy==2.2.2
+=======
+>>>>>>> f79e9b81953cf9af3acd1ea2db8a0803b48bc95a
 scikit-learn==1.6.1
 joblib==1.4.2

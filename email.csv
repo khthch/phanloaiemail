@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Category,Message
 ham,"Chào anh, em gửi báo giá mới nhất."
 ham,"chào anh, em gửi báo giá mới nhất."
@@ -299,3 +300,18 @@ spam,Free gift waiting for you.
 spam,You are selected for a cash prize.
 spam,Act now to get your reward.
 spam,Exclusive promotion available today.
+=======
+,Category,Message
+0,ham,"Hi John, can we schedule a meeting tomorrow?"
+1,ham,Please find the attached report.
+2,ham,Thank you for your purchase.
+3,ham,Let's have lunch this Friday.
+4,ham,The project deadline is next week.
+5,spam,Congratulations! You have won $1000.
+6,spam,Claim your free iPhone now.
+7,spam,Click here to receive your reward.
+8,spam,You have been selected for a cash prize.
+9,spam,Limited time offer! Buy now and save 90%.
+10,spam,Your account will be suspended. Verify immediately.
+11,spam,Earn money from home with no experience.
+>>>>>>> f79e9b81953cf9af3acd1ea2db8a0803b48bc95a
