@@ -1,4 +1,4 @@
-# 📧 AI Spam Email Classifier
+# 📧 Phân loại email spam
 
 Hệ thống phát hiện Email Spam sử dụng Machine Learning (TF-IDF + Logistic Regression) kết hợp Rule-based Detection.
 
